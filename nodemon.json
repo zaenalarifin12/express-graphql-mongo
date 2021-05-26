@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "zainal",
+    "MONGO_PASSWORD": "arifin",
+    "MONGO_DB": "react-graphql"
+  }
+}
